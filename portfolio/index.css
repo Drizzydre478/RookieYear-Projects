@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    background-color: #6f5964;
+    width: 1050px;
+    height: 1150px;
+}
+
+#main-header{
+    background-color:#f9f9f9;
+    width: 1050px;
+    height:100px;
+    display: block;
+    font-size: 50px;
+    line-height: 100px;
+}
+
+#main-header-text{
+    font-size: 25px;
+    /* width: 100px; */
+    display: inline-block;
+    /* text-align: right; */
+    margin-left: 350px;
+    line-height: 100px;
+}
+
+#image{
+    height:300px;
+    width: 425px;
+    display: inline-block;
+    border: solid 5px;
+    border-color:#c0c0c0;
+    margin: 20px;
+}
+
+
+
+.box-1{
+    background-color: #f4f0f4;
+    height: 310px;
+    width: 425px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 20px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+.header-2{
+    height: 75px;
+    width: 425px;
+    background-color: #96949f;
+    color: white;
+    line-height: 75px;
+}
+
+.header-3{
+    height: 75px;
+    width: 300px;
+    background-color: #96949f;
+    color: white;
+    line-height: 75px;
+
+}
+
+.box-1info{
+    font-size: 18px;
+    height: 50px;
+    line-height: 1;
+    padding: 10px;
+}
+
+.box-lamode{
+    background-color: #f4f0f4;
+    height: 570px;
+    width: 300px;
+    display: inline-block; 
+    vertical-align: top;
+    margin: 20px;
+}
+
+.header-lamode{
+    height: 45px;
+    width: 300px;
+    background-color: #96949f;
+    color: white;
+    line-height: 45px;
+    font-size: 30px;
+}
+
+.inbox-photo{
+    width: 100%;
+}
+
+.lamode-text{
+    line-height: 15px;
+    color: black;
+    font-size: 15px;
+    
+}
+
+.tech-header-lamode{
+    height: 45px;
+    width: 300px;
+    background-color: #96949f;
+    color: black;
+    line-height: 45px;
+    margin-top: 65px;
+    font-size: 20px;
+}
+
+.icons{
+    height: 45px;
+    width: 45;
+    display: inline-block;
+    margin: 5px;
+
+}
+
+
+
+.button{
+    background-color: #407d61;
+    display: block;
+    margin: 0 auto;
+}
+
+#footer{
+    background-color:#f9f9f9;
+    width: 1050px;
+    height:100px;
+    display: inline-block;
+    font-size: 20px;
+    
+    text-align: center;
+}
+
+.small-icons{
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+

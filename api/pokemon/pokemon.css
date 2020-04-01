@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+
+.title{
+    height: 120px;
+    width: 100%;
+    background-color: red;
+    text-align: center;
+    line-height: 120px;
+}
+button{
+    height: 100px;
+    width: 100%;
+}
+

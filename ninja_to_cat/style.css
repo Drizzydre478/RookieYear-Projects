@@ -1,0 +1,25 @@
+#container{
+    background-color: rgb(31, 29, 29);
+}
+
+.header{
+    background-color: black;
+    color: white;
+}
+
+img{
+    height: 100px;
+    width: 350px;
+}
+
+h1{
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}
+
+.imageBlock{
+    margin-left: 450px;
+}
+
+

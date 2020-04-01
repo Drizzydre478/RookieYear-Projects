@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#container{
+    height: 900px;
+    width: 900px;
+    background-color:#d5d1ae;
+}
+
+#header{
+    height:200px;
+    width:900px;
+}
+
+.rows{
+    height:175px;
+    width: 900px;
+}
+
+img{
+    height:130px;
+    width: 150px;
+    margin: 5px;
+    padding: 7px;
+    margin-top: 15px;
+}
+
+span{
+    font-size: 30px;
+
+}
+
+.header_content{
+    height:180px;
+    width:600px;
+    margin-left: 145px;
+}
